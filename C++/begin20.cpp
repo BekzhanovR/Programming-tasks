@@ -9,11 +9,11 @@ int main(){
     long long x1,x2,y1,y2;
     cout << "X1=";
     cin >> x1; 
-    out << "Y1=";
+    cout << "Y1=";
     cin >> y1; 
-    out << "X2=";
+    cout << "X2=";
     cin >> x2; 
-    out << "Y2=";
+    cout << "Y2=";
     cin >> y2; 
     cout << "Orasidagi oraliq: " << sqrt(pow((x2-x1),2)+pow((y2-y1),2));
     return 0;
