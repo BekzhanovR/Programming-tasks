@@ -1,0 +1,1 @@
+print(f"{int(input())%2==1}".lower())

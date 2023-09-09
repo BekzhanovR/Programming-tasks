@@ -1,0 +1,5 @@
+x = int(input())
+y = int(input())
+x1 = int(input())
+y1 = int(input())
+print(f"{(x+y)%2==(x1+y1)%2}".lower())
