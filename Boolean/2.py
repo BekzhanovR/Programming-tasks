@@ -1,1 +1,1 @@
-print(f"{int(input())%2==1}".lower())
+print(int(input())%2==1)

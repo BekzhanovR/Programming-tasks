@@ -1,4 +1,4 @@
 a = int(input())
 b = int(input())
 c = int(input())
-print(f"{(b**2-4*a*c)>=0}".lower())
+print((b**2-4*a*c)>=0)

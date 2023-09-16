@@ -1,1 +1,1 @@
-print(f"{int(input()) > 2 and int(input()) <= 3}".lower())
+print(int(input()) > 2 and int(input()) <= 3)
