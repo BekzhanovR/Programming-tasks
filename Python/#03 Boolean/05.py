@@ -1,1 +1,0 @@
-print(int(input()) >= 0 or int(input()) < -2)

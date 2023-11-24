@@ -1,1 +1,2 @@
-print(int(input())*4)
+a = int(input())
+print(4*a)

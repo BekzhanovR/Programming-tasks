@@ -1,3 +1,1 @@
-tf = int(input())
-tc = (tf - 32)*5/9
-print(tc)
+print((int(input())-32)*5/9)

@@ -1,4 +1,5 @@
-import math
 s = int(input())
-r = math.sqrt(s/3.14)
-print(f"{2*r}\n{r}")
+PI = 3.14
+r = (s/PI)**(1/2)
+print(r*2)
+print(r)

@@ -1,2 +1,3 @@
-from math import sqrt as s
-print(s(int(input())*int(input())))
+a = int(input())
+b = int(input())
+print((a*b)**(1/2))

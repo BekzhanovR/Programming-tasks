@@ -1,4 +1,4 @@
 a = int(input())
-print(a*a)
+print(a**2)
 print(a**4)
 print(a**8)

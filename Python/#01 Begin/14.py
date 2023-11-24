@@ -1,4 +1,6 @@
 l = int(input())
-r = l/(2*3.14)
-s = 3.14 * (r*r)
-print(f"{r}\n{s}")
+PI = 3.14
+r = l/(2*PI)
+s = PI*r**2
+print(r)
+print(s)

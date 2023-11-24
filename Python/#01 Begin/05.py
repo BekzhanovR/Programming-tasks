@@ -1,3 +1,3 @@
 a = int(input())
-print(a*a*a)
+print(a**3)
 print(6*a**2)
