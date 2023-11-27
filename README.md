@@ -19,6 +19,7 @@ Solution Programming Problems Compendium These guidelines contain the formulatio
 • Text — text files (60) <br>
 • Param — composite data types in procedures and functions (70) <br>
 • Recur — recursion (30) <br>
-• Dynamic — dynamic data structures (80)
+• Dynamic — dynamic data structures (80) <br>
+• Tree — Trees (100)
 
 Tasks are focused on the languages ​​traditionally used in the initial programming training: Pascal, С++, Python Basic. At the same time, other languages, such as Javascript or Java, can be used to solve most of the tasks. When formulating tasks, concepts and names specific to a particular programming language are not used.
